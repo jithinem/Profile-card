@@ -1,0 +1,29 @@
+html{
+    --theme-color:rgb(61, 220, 141);
+
+}
+.first{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+}
+.prof{
+    height: 420px;
+    width: 320px;
+    background-color: rgb(112, 164, 142);
+    border-radius: 10px;
+    padding:50px 0;
+}
+img{
+    width: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 0 auto;
+    position: relative;
+    display: block;
+}
+.prof h4{
+    color: var(--theme-color);
+    margin: auto ;
+}
